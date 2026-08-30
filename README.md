@@ -191,7 +191,3 @@ If your from-scratch `w`/`b` land close to sklearn's, that's proof your code is 
 2. **Build a formula** (`predict`) that turns a guess (`w`, `b`) into a line.
 3. **Build a way to measure wrongness** (`compute_cost`) — the average squared distance between your line and the real points.
 4. **Repeatedly nudge the guess** (gradient descent loop) in the direction that lowers the wrongness.
-
-
----
-*LINEAR_REGRESSION_SCRATCH_V1 // EMEKA*
